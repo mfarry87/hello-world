@@ -1,2 +1,2 @@
 # hello-world
-short description
+Everything is pretty new and this simply get us going!
